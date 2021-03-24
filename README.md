@@ -1,0 +1,1 @@
+**Configuración del gestor de ventanas Qtile**
